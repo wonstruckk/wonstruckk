@@ -13,7 +13,7 @@
     
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonstruckk)](https://github.com/wonstruckk/github-readme-stats)
 
-  
+   </td>
   <td>
    <div align="center">🛠 Skills i've ever used 🛠 </div>
    </br>
@@ -26,10 +26,17 @@
    <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=react query&logoColor=white"/> 
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> 
    
+   </td>
    <tr>
- 
+     <td>
+      
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonstruckk)](https://github.com/wonstruckk/github-readme-stats)
   
+ </td>
+   
+     <td>
+      12345
+ </td>
  </table>
 </div>
  
