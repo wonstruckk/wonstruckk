@@ -1,5 +1,7 @@
 <div align="center">  Hi, there👏👏</div>
-<div></div>
+
+<br/>
+<br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonstruckk)](https://github.com/wonstruckk/github-readme-stats)
 
@@ -8,6 +10,9 @@
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonstruckk)](https://github.com/wonstruckk/github-readme-stats)
 </div>
+
+<br/>
+<br/>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
