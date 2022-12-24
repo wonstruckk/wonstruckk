@@ -32,10 +32,13 @@
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonstruckk)](https://github.com/wonstruckk/github-readme-stats)
   
      </td>
-     <td>
+ 
+     <tr>
+      <td>
       12345
-     </td>
-   </tr>
+      </td>
+    
+
      
  </table>
 </div>
