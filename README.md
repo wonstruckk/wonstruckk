@@ -1,5 +1,4 @@
-
-<center> wonstruck's git </center>  
+<div style="text-align: center">  wonstruck's git⭐️ </div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonstruckk)](https://github.com/wonstruckk/github-readme-stats)
 
