@@ -2,7 +2,7 @@
 <br/>
 <br/>
 
-<div align="center">🛠 Stacks i've ever used 🛠 </div>
+<div align="center">🛠 Skills i've ever used 🛠 </div>
  
  <br/>
  <br/>
@@ -11,7 +11,7 @@
   
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonstruckk)](https://github.com/wonstruckk/github-readme-stats)
  
-  12345
+ <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   </div>
 
 <br/>
