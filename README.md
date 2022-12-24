@@ -31,11 +31,10 @@
    </td>
    
    <tr>
-     <td>
+    <td>
       
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonstruckk)](https://github.com/wonstruckk/github-readme-stats)
   
- 
       <td>
       12345
      
