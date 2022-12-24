@@ -26,6 +26,7 @@
    <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=react query&logoColor=white"/> 
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> 
    </td>
+   
    <tr>
      <td>
       
@@ -33,13 +34,10 @@
   
      </td>
  
-     <tr>
       <td>
       12345
-      </td>
-    
-
-     
+      </td>  
+ </tr>
  </table>
 </div>
  
