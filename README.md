@@ -11,7 +11,7 @@
   
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonstruckk)](https://github.com/wonstruckk/github-readme-stats)
  
- <img src="https://img.shields.io/badge/React-#61DAFB?style=flat-square&logo=react&logoColor=white"/>
+ <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
  
   </div>
 
