@@ -8,7 +8,7 @@
 ----------
 <div> 🛠 Stacks i've ever used before 🛠 
  
- <div align="right">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonstruckk)](https://github.com/wonstruckk/github-readme-stats)</div>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonstruckk)](https://github.com/wonstruckk/github-readme-stats)
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
