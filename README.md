@@ -22,6 +22,8 @@
    <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
    </br>
    <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=react query&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> 
+   
   
  </table>
 </div>
