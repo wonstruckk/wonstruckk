@@ -8,11 +8,12 @@
  <br/>
  
  <table>
+  <tr>
+  <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonstruckk)](https://github.com/wonstruckk/github-readme-stats)
 
  <div align="left">
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonstruckk)](https://github.com/wonstruckk/github-readme-stats)
-
+ 
   <div align="right">
  
  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
