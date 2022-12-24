@@ -16,6 +16,7 @@
   
   <td>
    <div align="center">🛠 Skills i've ever used 🛠 </div>
+   </br>
    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
@@ -25,6 +26,9 @@
    <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=react query&logoColor=white"/> 
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> 
    
+   <td>
+ 
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonstruckk)](https://github.com/wonstruckk/github-readme-stats)
   
  </table>
 </div>
@@ -39,7 +43,7 @@
 <br/>
 <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonstruckk)](https://github.com/wonstruckk/github-readme-stats)
+
 
 
 
