@@ -6,10 +6,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonstruckk)](https://github.com/wonstruckk/github-readme-stats)
 
 ----------
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonstruckk)](https://github.com/wonstruckk/github-readme-stats)
-
-<div> Stacks i've ever used before </div>
+<div> 🛠 Stacks i've ever used before 🛠 
+  <div align="right">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonstruckk)](https://github.com/wonstruckk/github-readme-stats)</div>
+</div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
