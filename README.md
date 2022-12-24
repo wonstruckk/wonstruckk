@@ -1,7 +1,4 @@
-<div align="center">  wonstruck's git⭐️ 
-
-
-</div>
+<div align="center">  Hi, there👏👏</div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonstruckk)](https://github.com/wonstruckk/github-readme-stats)
 
