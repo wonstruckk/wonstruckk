@@ -9,7 +9,7 @@
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonstruckk)](https://github.com/wonstruckk/github-readme-stats)
  
-<div>12345</div>
+<div align="right">12345</div>
  
 </div>
 
