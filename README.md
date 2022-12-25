@@ -14,6 +14,7 @@
   <tr>
    <td>
     <div align="center">
+     </br>
     
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonstruckk)](https://github.com/wonstruckk/github-readme-stats)
 
@@ -38,6 +39,7 @@
    
   <tr>
  <td> 
+  </br>
   
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonstruckk)](https://github.com/wonstruckk/github-readme-stats) 
    
